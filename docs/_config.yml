@@ -1,5 +1,5 @@
 title: The Bio++ Libraries
 description: Homepage of the Bio++ libraries, a set of C++ libraries for phylogenetics, population genetics and molecular evolution.
 show_downloads: false
-theme: jekyll-theme-midnight
+theme: jekyll-theme-minimal
 logo: /images/Logo2_3.png
