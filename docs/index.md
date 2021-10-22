@@ -2,7 +2,11 @@
 layout: default
 ---
 
-## The Bio++ Project
+{% for post in site.posts %}
+- [{{ post.title }}](/github-pages-with-jekyll{{ post.url }}")
+{% endfor %}
+
+### The Bio++ Project
 
 **Bio++** is a set of C++ libraries for Bioinformatics, including sequence analysis, phylogenetics, molecular evolution and population genetics. Bio++ is Object Oriented and is designed to be both easy to use and computer efficient. Bio++ intends to help programmers to write computer expensive programs, by providing them a set of re-usable tools. 
 
