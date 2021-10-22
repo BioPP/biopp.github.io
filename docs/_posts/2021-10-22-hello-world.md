@@ -1,7 +1,9 @@
 ---
 layout: post
 title:  "New website and Bio++ V3.00"
+author: J. Dutheil
 published: true
+tags: [news, website]
 ---
 
 # New version, new website!
