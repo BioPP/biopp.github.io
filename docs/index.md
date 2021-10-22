@@ -4,9 +4,9 @@ An overview of the methods implemented is available on the [Bio++ Wiki](https://
 
 [The Bio++ Program Suite](http://biopp.github.io/bppsuite/)
 
-[TextNH](http://biopp.github.io/textnh/) 
+[TestNH](http://biopp.github.io/testnh/) 
 
-[Grapes](http://biopp.github.com/grapes/)
+[Grapes](http://github.com/BioPP/grapes/)
 
 [PhySamp](http://jydu.github.io/physamp/)
 
