@@ -6,5 +6,3 @@ logo: /images/Logo2_3.png
 plugins:
   - jekyll-feed
   - jekyll-paginate
-baseurl: "/"
-
