@@ -3,7 +3,7 @@ layout: default
 ---
 
 {% for post in site.posts %}
-- [{{ post.title }}](/github-pages-with-jekyll{{ post.url }}")
+- [{{ post.title }}](/github-pages-with-jekyll{{ post.url }})
 {% endfor %}
 
 ### The Bio++ Project
