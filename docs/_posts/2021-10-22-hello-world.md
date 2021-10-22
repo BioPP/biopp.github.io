@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "New website and Bio++ V3.00"
+published: true
 ---
 
 # New version, new website!
