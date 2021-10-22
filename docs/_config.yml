@@ -7,3 +7,4 @@ plugins:
   - jekyll-feed
   - jekyll-paginate
   - jekyll-remote-theme
+  - jekyll-seo-tag
