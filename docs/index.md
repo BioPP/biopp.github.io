@@ -1,10 +1,12 @@
 ---
-layout: default
+layout: base
 ---
 
-{% for post in site.posts %}
-- [{{ post.title }}]({{ post.url }})
-{% endfor %}
+{% for post in site.posts limit:5 %}
+## [{{ post.title }}]({{ post.url }})
+### _{{ post.date | date_to_long_string }}_
+{{ post.excerpt }} [...]({{ post.url | absolute_url }})
+{% endfor -%}
 
 ### The Bio++ Project
 
