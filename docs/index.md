@@ -23,14 +23,14 @@ Detailed documentation of the classes can be found here:
 * [bpp-popgen](https://pbil.univ-lyon1.fr/bpp-doc/bpp-popgen/html/)
 * [bpp-seq-omics](https://pbil.univ-lyon1.fr/bpp-doc/bpp-seq-omics/html/)
 * [bpp-phyl-omics](https://pbil.univ-lyon1.fr/bpp-doc/bpp-phyl-omics/html/)
-* [bpp-raa](https://pbil.univ-lyon1.fr/bpp-doc/bpp-raa/html/)
+<!-- * [bpp-raa](https://pbil.univ-lyon1.fr/bpp-doc/bpp-raa/html/) -->
 * [bpp-qt](https://pbil.univ-lyon1.fr/bpp-doc/bpp-qt/html/)
 
 ### Projects using the Bio++ libraries
 
-* [The Bio++ Program Suite](http://biopp.github.io/bppsuite/) provides a set of ready-to-use programs, allowing notably to process sequences, fit a large set of models of sequence evolution, or conduct population genetic analyses.
+* [The Bio++ Program Suite](http://github.com/BioPP/bppsuite/) provides a set of ready-to-use programs, allowing notably to process sequences, fit a large set of models of sequence evolution, or conduct population genetic analyses.
 
-* [TestNH](http://biopp.github.io/testnh/) provides some tools to fit complex non-homogeneous models, but also to perform substitution mapping. 
+* [TestNH](http://github.com/BioPP/testnh/) provides some tools to fit complex non-homogeneous models, but also to perform substitution mapping. 
 
 * [Grapes](http://github.com/BioPP/grapes/) is a tool to fit models of distributions of fitness effects on polymorphism data and estimate the rate of adaptive non-synonymous substitutions.
 
@@ -39,3 +39,13 @@ Detailed documentation of the classes can be found here:
 * [CoMap](http://jydu.github.io/comap/) is a package for the analysis of molecular coevolution.
 
 * [MafFilter](http://jydu.github.io/maffilter/) is a genome alignment processor, allowing advanced filtering, format conversion and population genomic analyses.
+
+### Container
+
+An apptainer recipe is available there:
+
+* [apptainer](http://github.com/BioPP/bpp-apptainer)
+
+as well as a debian computed image:
+
+* [debian](https://pbil.univ-lyon1.fr/bpp-doc/images/bpp_debian.sif)
