@@ -4,7 +4,7 @@ layout: default
 
 {% for post in site.posts limit:5 %}
 ## [{{ post.title }}]({{ post.url }})
-### _{{ post.date | date_to_long_string }}_
+<!-- ### _{{ post.date | date_to_long_string }}_  -->
 {{ post.excerpt }} [...]({{ post.url | absolute_url }})
 {% endfor -%}
 
