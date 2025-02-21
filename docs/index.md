@@ -48,4 +48,4 @@ An apptainer recipe is available there:
 
 as well as a computed image:
 
-* [debian](https://pbil.univ-lyon1.fr/bpp-doc/images/bpp.sif)
+* [bpp.sif](https://pbil.univ-lyon1.fr/bpp-doc/images/bpp.sif)
