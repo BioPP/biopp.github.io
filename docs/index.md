@@ -46,6 +46,6 @@ An apptainer recipe is available there:
 
 * [apptainer](http://github.com/BioPP/bpp-apptainer)
 
-as well as a debian computed image:
+as well as a computed image:
 
-* [debian](https://pbil.univ-lyon1.fr/bpp-doc/images/bpp_debian.sif)
+* [debian](https://pbil.univ-lyon1.fr/bpp-doc/images/bpp.sif)
